@@ -1,0 +1,2 @@
+GITHUB URL = https://github.com/mengestu/UdagramImageFilterNodeJsEbs.git
+EBstalk URL = image-filter-pro-dev.us-east-1.elasticbeanstalk.com
